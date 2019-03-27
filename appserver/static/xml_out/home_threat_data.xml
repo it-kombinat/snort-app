@@ -1,0 +1,47 @@
+<map map_file="maps/world.swf" tl_long="-168.5" tl_lat="83.50" br_long="190" br_lat="-55"  zoom="399.8812%" zoom_x="-33.8%" zoom_y="-142.62%"  >
+ 
+	
+	  <areas> 
+
+      <area title="borders" mc_name="borders" color="#FFFFFF" balloon="false"></area>
+
+  </areas>
+  
+  
+	<movies>	
+
+<movie url="/app/SplunkforSnort/flashtimeline?q=search%20src_ip%3D3.122.252.223%20OR%20src_ip%3D54.93.236.53%20OR%20src_ip%3D3.121.209.153" target="_parent" fixed_size="true" file="circle" alpha="60" title="&lt;b&gt; United States
+ Event(s): 228
+ Unique Source IP(s): 3"
+ lat="38.0" long="-97.0" height="25" width="25" color="#FF0000">
+</movie>
+
+
+<movie url="/app/SplunkforSnort/flashtimeline?q=search%20src_ip%3D79.174.38.172" target="_parent" fixed_size="true" file="circle" alpha="60" title="&lt;b&gt; Moscow, 48, Russian Federation
+ Event(s): 2
+ Unique Source IP(s): 1"
+ lat="55.7522" long="37.6156" height="10" width="10" color="#FF0000">
+</movie>
+
+
+<movie url="/app/SplunkforSnort/flashtimeline?q=search%20src_ip%3D18.196.212.179%20OR%20src_ip%3D18.194.129.145%20OR%20src_ip%3D18.197.149.75" target="_parent" fixed_size="true" file="circle" alpha="60" title="&lt;b&gt; Cambridge, MA, United States
+ Event(s): 228
+ Unique Source IP(s): 3"
+ lat="42.3646" long="-71.1028" height="25" width="25" color="#FF0000">
+</movie>
+
+
+<movie url="/app/SplunkforSnort/flashtimeline?q=search%20src_ip%3D116.255.193.132" target="_parent" fixed_size="true" file="circle" alpha="60" title="&lt;b&gt; Henan, 24, China
+ Event(s): 1
+ Unique Source IP(s): 1"
+ lat="37.8997" long="112.1872" height="10" width="10" color="#FF0000">
+</movie>
+
+
+<movie url="/app/SplunkforSnort/flashtimeline?q=search%20src_ip%3D180.111.15.1" target="_parent" fixed_size="true" file="circle" alpha="60" title="&lt;b&gt; Beijing, 22, China
+ Event(s): 1
+ Unique Source IP(s): 1"
+ lat="39.9289" long="116.3883" height="10" width="10" color="#FF0000">
+</movie>
+
+</movies></map>
